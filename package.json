@@ -1,0 +1,19 @@
+{
+  "name": "pokemons-keeper",
+  "version": "1.0.0",
+  "description": "database with pokemons",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.1"
+  }
+}
